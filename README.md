@@ -7,4 +7,4 @@
 7.git pull origin master ---> check chages on our GitHub repository  
 8.git diff HEAD ---> what is diff.  
 9.git checkout -- <target> ---> files can be changed back to how they were..  
-10.
+10.git branch clean_up ---> remove all  
