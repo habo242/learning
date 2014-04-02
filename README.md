@@ -1,3 +1,5 @@
+#10 Important Git Commands
+
 1.git init ---> Initialized empty Git repository in /.git/  
 2.git status ---> see what the current state of our project is  
 3.git add <file> ----> to include in what will be comitted in STAGING AREA  
