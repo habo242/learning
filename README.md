@@ -11,3 +11,4 @@
 9.`git checkout` -- <target> ---> files can be changed back to how they were..  
 10.`git branch clean_up` ---> remove all  
 11.`git test` ---> test git
+12. Berlin is Beste !!!!
